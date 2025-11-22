@@ -1,0 +1,1 @@
+cout<<"length of string is: "<<getLength(str)<<endl;

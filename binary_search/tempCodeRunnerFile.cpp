@@ -1,0 +1,1 @@
+ // cout << "First occurrence of " << target << ": " << firstOccurrence << endl;
